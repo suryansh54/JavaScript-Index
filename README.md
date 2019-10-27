@@ -24,13 +24,13 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Rest parameters and Spread Operators">Rest parameters and Spread Operators</a></li>
   <li><a href="javascript:;" title="Call, Apply and Bind">Call, Apply and Bind</a></li>
   <li><a href="javascript:;" title="HTML APIs - HTML5 Geolocation">HTML APIs - HTML5 Geolocation</a>
-    <ul>
+    <ol>
       <li><a href="javascript:;" title="HTML5 Geolocation">HTML5 Geolocation</a>
       <li><a href="javascript:;" title="HTML APIs - Drag and Drop">HTML APIs - Drag and Drop</a></li>
       <li><a href="javascript:;" title="HTML APIs - Web Storage">HTML APIs - Web Storage</a></li>
       <li><a href="javascript:;" title="HTML APIs - Web Workers">HTML APIs - Web Workers</a></li>
       <li><a href="javascript:;" title="HTML APIs - Server-Sent Events">HTML APIs - Server-Sent Events</a></li>
-    </ul>
+    </ol>
   </li>
   <li><a href="javascript:;" title="Modules - Import, Export">Modules - Import, Export</a></li>
   <li><a href="javascript:;" title="JavaScript Cookies">JavaScript Cookies</a></li>
