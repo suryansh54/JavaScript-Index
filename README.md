@@ -31,7 +31,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Error Handling (Types, Try and Catch)">Error Handling (Types, Try and Catch)</a></li>
   <li><a href="javascript:;" title="Methods">Methods</a>
       <ul>
-        <li><a href="javascript:;" title="String Methods">String Methods</a>
+        <li><a href="javascript:;" title="String Methods">String Methods</a></li>
         <li><a href="javascript:;" title="Number Methods">Number Methods</a></li>
         <li><a href="javascript:;" title="Array Methods">Array Methods</a></li>
         <li><a href="javascript:;" title="Object Methods">Object Methods</a></li>
@@ -48,7 +48,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Call, Apply and Bind">Call, Apply and Bind</a></li>
   <li><a href="javascript:;" title="HTML APIs">HTML APIs</a>
       <ul>
-        <li><a href="javascript:;" title="HTML5 Geolocation">HTML5 Geolocation</a>
+        <li><a href="javascript:;" title="HTML5 Geolocation">HTML5 Geolocation</a></li>
         <li><a href="javascript:;" title="Drag and Drop">Drag and Drop</a></li>
         <li><a href="javascript:;" title="Web Storage">Web Storage</a></li>
         <li><a href="javascript:;" title="Web Workers">Web Workers</a></li>
@@ -82,7 +82,7 @@ All JavaScript topics index
       <ul>
         <li><a href="javascript:;" title="Creational">Creational</a>
           <ul>
-            <li><a href="javascript:;" title="Factory Pattern">Factory Pattern</a>
+            <li><a href="javascript:;" title="Factory Pattern">Factory Pattern</a></li>
             <li><a href="javascript:;" title="Constructor Pattern">Constructor Pattern</a></li>
             <li><a href="javascript:;" title="Singleton Pattern">Singleton Pattern</a></li>
             <li><a href="javascript:;" title="Prototype Pattern">Prototype Pattern</a></li>
@@ -90,7 +90,7 @@ All JavaScript topics index
         </li>
         <li><a href="javascript:;" title="Structural">Structural</a>
           <ul>
-            <li><a href="javascript:;" title="Module Pattern">Module Pattern</a>
+            <li><a href="javascript:;" title="Module Pattern">Module Pattern</a></li>
             <li><a href="javascript:;" title="Adapter Pattern">Adapter Pattern</a></li>
             <li><a href="javascript:;" title="Decorator Pattern">Decorator Pattern</a></li>
             <li><a href="javascript:;" title="Façade Pattern">Façade Pattern</a></li>
@@ -100,7 +100,7 @@ All JavaScript topics index
         </li>
         <li><a href="javascript:;" title="Behavioral">Behavioral</a>
           <ul>
-            <li><a href="javascript:;" title="Mediator Pattern">Mediator Pattern</a>
+            <li><a href="javascript:;" title="Mediator Pattern">Mediator Pattern</a></li>
             <li><a href="javascript:;" title="Observer Pattern">Observer Pattern</a></li>
           </ul>
         </li>
@@ -109,10 +109,26 @@ All JavaScript topics index
   <li><a href="javascript:;" title="ES5 vs ES6">ES5 vs ES6</a></li>
   <li><a href="javascript:;" title="JavaScript - OOPs">JavaScript - OOPs</a>
       <ul>
-        <li><a href="javascript:;" title="Abstraction">Abstraction</a>
+        <li><a href="javascript:;" title="Abstraction">Abstraction</a></li>
         <li><a href="javascript:;" title="Inheritance">Inheritance</a></li>
         <li><a href="javascript:;" title="Polymorphism">Polymorphism</a></li>
         <li><a href="javascript:;" title="Encapsulation">Encapsulation</a></li>
+      </ul>
+  </li>
+  <li><a href="javascript:;" title="JavaScript - Data Structure">JavaScript - Data Structure</a>
+      <ul>
+        <li><a href="javascript:;" title="Stacks">Stacks</a></li>
+        <li><a href="javascript:;" title="Sets">Sets</a></li>
+        <li><a href="javascript:;" title="Queues & Priority Queues">Queues & Priority Queues</a></li>
+        <li><a href="javascript:;" title="Binary Search Tree">Binary Search Tree</a></li>
+        <li><a href="javascript:;" title="Binary Search Tree: Traversal & Height">Binary Search Tree: Traversal & Height</a></li>
+        <li><a href="javascript:;" title="Hash Tables">Hash Tables</a></li>
+        <li><a href="javascript:;" title="Linked List">Linked List</a></li>
+        <li><a href="javascript:;" title="Trie">Trie</a></li>
+        <li><a href="javascript:;" title="Heap (max and min)">Heap (max and min)</a></li>
+        <li><a href="javascript:;" title="Heap visualization">Heap visualization</a></li>
+        <li><a href="javascript:;" title="Graphs: adjacency list, adjacency matrix, incidence matrix">Graphs: adjacency list, adjacency matrix, incidence matrix</a></li>
+        <li><a href="javascript:;" title="Graphs: breadth-first search">Graphs: breadth-first search</a></li>
       </ul>
   </li>
   <li><a href="javascript:;" title="Javascript optimization">Javascript optimization</a></li>
