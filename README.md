@@ -63,7 +63,34 @@ All JavaScript topics index
   <li><a href="javascript:;" title="SVG">SVG</a></li>
   <li><a href="javascript:;" title="Canvas">Canvas</a></li>
   <li><a href="javascript:;" title="Script tag attributes - async & defer">Script tag attributes - async & defer</a></li>
-  <li><a href="javascript:;" title="Design Pattern">Design Pattern</a></li>
+  <li><a href="javascript:;" title="Design Pattern">Design Pattern</a>
+      <ul>
+        <li><a href="javascript:;" title="Creational">Creational</a>
+          <ul>
+            <li><a href="javascript:;" title="Factory Pattern">Factory Pattern</a>
+            <li><a href="javascript:;" title="Constructor Pattern">Constructor Pattern</a></li>
+            <li><a href="javascript:;" title="Singleton Pattern">Singleton Pattern</a></li>
+            <li><a href="javascript:;" title="Prototype Pattern">Prototype Pattern</a></li>
+          </ul>
+        </li>
+        <li><a href="javascript:;" title="Structural">Structural</a>
+          <ul>
+            <li><a href="javascript:;" title="Module Pattern">Module Pattern</a>
+            <li><a href="javascript:;" title="Adapter Pattern">Adapter Pattern</a></li>
+            <li><a href="javascript:;" title="Decorator Pattern">Decorator Pattern</a></li>
+            <li><a href="javascript:;" title="Façade Pattern">Façade Pattern</a></li>
+            <li><a href="javascript:;" title="Mixin Pattern">Mixin Pattern</a></li>
+            <li><a href="javascript:;" title="Flyweight Pattern">Flyweight Pattern</a></li>
+          </ul>
+        </li>
+        <li><a href="javascript:;" title="Behavioral">Behavioral</a>
+          <ul>
+            <li><a href="javascript:;" title="Mediator Pattern">Mediator Pattern</a>
+            <li><a href="javascript:;" title="Observer Pattern">Observer Pattern</a></li>
+          </ul>
+        </li>
+      </ul>
+  </li>
   <li><a href="javascript:;" title="ES5 vs ES6">ES5 vs ES6</a></li>
   <li><a href="javascript:;" title="JavaScript - OOPs">JavaScript - OOPs</a>
       <ul>
