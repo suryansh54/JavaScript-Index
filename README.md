@@ -23,13 +23,18 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Async/Await">Async/Await</a></li>
   <li><a href="javascript:;" title="Rest parameters and Spread Operators">Rest parameters and Spread Operators</a></li>
   <li><a href="javascript:;" title="Call, Apply and Bind">Call, Apply and Bind</a></li>
-  <li><a href="javascript:;" title="HTML APIs - HTML5 Geolocation">HTML APIs - HTML5 Geolocation</a></li>
-  <li><a href="javascript:;" title="HTML APIs - Drag and Drop">HTML APIs - Drag and Drop</a></li>
-  <li><a href="javascript:;" title="HTML APIs - Web Storage">HTML APIs - Web Storage</a></li>
-  <li><a href="javascript:;" title="HTML APIs - Web Workers">HTML APIs - Web Workers</a></li>
-  <li><a href="javascript:;" title="HTML APIs - Server-Sent Events">HTML APIs - Server-Sent Events</a></li>
+  <li><a href="javascript:;" title="HTML APIs - HTML5 Geolocation">HTML APIs - HTML5 Geolocation</a>
+    <ul>
+      <li><a href="javascript:;" title="HTML5 Geolocation">HTML5 Geolocation</a>
+      <li><a href="javascript:;" title="HTML APIs - Drag and Drop">HTML APIs - Drag and Drop</a></li>
+      <li><a href="javascript:;" title="HTML APIs - Web Storage">HTML APIs - Web Storage</a></li>
+      <li><a href="javascript:;" title="HTML APIs - Web Workers">HTML APIs - Web Workers</a></li>
+      <li><a href="javascript:;" title="HTML APIs - Server-Sent Events">HTML APIs - Server-Sent Events</a></li>
+    </ul>
+  </li>
   <li><a href="javascript:;" title="Modules - Import, Export">Modules - Import, Export</a></li>
   <li><a href="javascript:;" title="JavaScript Cookies">JavaScript Cookies</a></li>
   <li><a href="javascript:;" title="JavaScript Cache">JavaScript Cache</a></li>
   <li><a href="javascript:;" title="Getter and Setters (JavaScript Object Accessors)">Getter and Setters (JavaScript Object Accessors)</a></li>
+  <li><a href="javascript:;" title="Navigator and Browser">Navigator and Browser</a></li>
 </ol>
