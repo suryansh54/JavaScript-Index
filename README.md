@@ -4,6 +4,10 @@ All JavaScript topics index
 <ol>
   <li><a href="javascript:;" title="Data Type">Data Type</a></li>
   <li><a href="javascript:;" title="Use strict">Use strict</a></li>
+  <li><a href="javascript:;" title="Operators">Operators</a></li>
+  <li><a href="javascript:;" title="The switch statement">The switch statement</a></li>
+  <li><a href="javascript:;" title="Conditional statement">Conditional statement</a></li>
+  <li><a href="javascript:;" title="Loops">Loops</a></li>
   <li><a href="javascript:;" title="Type Conversions">Type Conversions</a></li>
   <li><a href="javascript:;" title="Event Loop - Synchronous and Asynchronous">Event Loop - Synchronous and Asynchronous</a></li>
   <li><a href="javascript:;" title="Scoping">Scoping</a></li>
@@ -14,6 +18,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Function expression and Function declaration">Function expression and Function declaration</a></li>
   <li><a href="javascript:;" title="ES6 - Function with default parameters">ES6 - Function with default parameters</a></li>
   <li><a href="javascript:;" title="ES6 - this keyword and Arrow function">ES6 - this keyword and Arrow function</a></li>
+  <li><a href="javascript:;" title="Garbage collection">Garbage collection</a></li>
   <li><a href="javascript:;" title="Function constructor">Function constructor</a></li>
   <li><a href="javascript:;" title="Prototype, Prototype Chain and __proto__">Prototype, Prototype Chain and __proto__</a></li>
   <li><a href="javascript:;" title="ES6 - Classes">ES6 - Classes</a></li>
@@ -55,6 +60,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="JavaScript Memoization">JavaScript Memoization</a></li>
   <li><a href="javascript:;" title="ES6 - Destructuring">ES6 - Destructuring</a></li>
   <li><a href="javascript:;" title="ES6 - Modules (Import, Export)">ES6 - Modules (Import, Export)</a></li>
+  <li><a href="javascript:;" title="JSON vs BSON">JSON vs BSON</a></li>
   <li><a href="javascript:;" title="Network Call (XHR, API Handling, Fetch, File Upload, WebSockets)">Network Call (XHR, API Handling, Fetch, File Upload, WebSockets)</a></li>
   <li><a href="javascript:;" title="Getter and Setters (JavaScript Object Accessors)">Getter and Setters (JavaScript Object Accessors)</a></li>
   <li><a href="javascript:;" title="ES6 - Generators & Iterators">ES6 - Generators & Iterators</a></li>
@@ -71,6 +77,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="SVG">SVG</a></li>
   <li><a href="javascript:;" title="Canvas">Canvas</a></li>
   <li><a href="javascript:;" title="Script tag attributes - async & defer">Script tag attributes - async & defer</a></li>
+  <li><a href="javascript:;" title="Code Quality with ESLint">Code Quality with ESLint</a></li>
   <li><a href="javascript:;" title="Design Pattern">Design Pattern</a>
       <ul>
         <li><a href="javascript:;" title="Creational">Creational</a>
