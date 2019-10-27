@@ -24,6 +24,14 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Regular Expression">Regular Expression</a></li>
   <li><a href="javascript:;" title="Event Delegation and Event Propagation (Event Capturing and Event bubbling)">Event Delegation and Event Propagation (Event Capturing and Event bubbling)</a></li>
   <li><a href="javascript:;" title="Error Handling (Types, Try and Catch)">Error Handling (Types, Try and Catch)</a></li>
+  <li><a href="javascript:;" title="Methods">Methods</a>
+      <ul>
+        <li><a href="javascript:;" title="String Methods">String Methods</a>
+        <li><a href="javascript:;" title="Number Methods">Number Methods</a></li>
+        <li><a href="javascript:;" title="Array Methods">Array Methods</a></li>
+        <li><a href="javascript:;" title="Object Methods">Object Methods</a></li>
+      </ul>
+  </li>
   <li><a href="javascript:;" title="Array helper functions(foreach, map, filter, reduce, every and some, reduce, for..of)">Array helper functions(foreach, map, filter, reduce, every and some, reduce, for..of)</a></li>
   <li><a href="javascript:;" title="Object creation">Object creation</a></li>
   <li><a href="javascript:;" title="Object static keyword">Object static keyword</a></li>
