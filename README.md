@@ -110,3 +110,9 @@ All JavaScript topics index
   </li>
   <li><a href="javascript:;" title="Javascript optimization">Javascript optimization</a></li>
 </ol>
+
+### References
+- <a href="https://www.w3schools.com/js" title="w3schools javascript">w3schools javascript</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="MDN javascript">MDN javascript</a>
+- <a href="http://javascript.info" title="javascript.info">javascript.info</a>
+- <a href="https://es6.io/" title="es6.io">es6.io</a>
