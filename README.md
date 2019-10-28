@@ -9,7 +9,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Conditional statement">Conditional statement</a></li>
   <li><a href="javascript:;" title="Loops">Loops</a></li>
   <li><a href="javascript:;" title="Type Conversions">Type Conversions</a></li>
-  <li><a href="javascript:;" title="Event Loop - Synchronous and Asynchronous">Event Loop - Synchronous and Asynchronous</a></li>
+  <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#synchronous-and-asynchronous" title="Event Loop - Synchronous and Asynchronous">Event Loop - Synchronous and Asynchronous</a></li>
   <li><a href="javascript:;" title="Scoping">Scoping</a></li>
   <li><a href="javascript:;" title="JavaScript Hoisting">JavaScript Hoisting</a></li>
   <li><a href="javascript:;" title="Window object">Window object</a></li>
@@ -41,9 +41,9 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Object creation">Object creation</a></li>
   <li><a href="javascript:;" title="Object static keyword">Object static keyword</a></li>
   <li><a href="javascript:;" title="Deep and Shallow copies">Deep and Shallow copies</a></li>
-  <li><a href="javascript:;" title="CallBack">CallBack</a></li>
-  <li><a href="javascript:;" title="ES6 - Promise">ES6 - Promise</a></li>
-  <li><a href="javascript:;" title="ES6 - Async/Await">ES6 - Async/Await</a></li>
+  <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#callback" title="CallBack">CallBack</a></li>
+  <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#promise" title="ES6 - Promise">ES6 - Promise</a></li>
+  <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#asyncawait" title="ES6 - Async/Await">ES6 - Async/Await</a></li>
   <li><a href="javascript:;" title="ES6 - Rest parameters and Spread Operators">ES6 - Rest parameters and Spread Operators</a></li>
   <li><a href="javascript:;" title="Call, Apply and Bind">Call, Apply and Bind</a></li>
   <li><a href="javascript:;" title="HTML APIs">HTML APIs</a>
