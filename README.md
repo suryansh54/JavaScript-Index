@@ -13,6 +13,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Scoping">Scoping</a></li>
   <li><a href="javascript:;" title="JavaScript Hoisting">JavaScript Hoisting</a></li>
   <li><a href="javascript:;" title="Window object">Window object</a></li>
+  <li><a href="javascript:;" title="Window object">Javascript identifiers</a></li>
   <li><a href="javascript:;" title="ES6 - let, const and var">ES6 - let, const and var</a></li>
   <li><a href="javascript:;" title="ES6 - Template Strings">ES6 - Template Strings</a></li>
   <li><a href="javascript:;" title="Function expression and Function declaration">Function expression and Function declaration</a></li>
