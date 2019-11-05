@@ -28,7 +28,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Currying">Currying</a></li>
   <li><a href="javascript:;" title="Regular Expression">Regular Expression</a></li>
   <li><a href="javascript:;" title="Event Delegation and Event Propagation (Event Capturing and Event bubbling)">Event Delegation and Event Propagation (Event Capturing and Event bubbling)</a></li>
-  <li><a href="javascript:;" title="Error Handling (Types, Try and Catch)">Error Handling (Types, Try and Catch)</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-error-handling" title="Error Handling (Types, Try and Catch)">Error Handling (Types, Try and Catch)</a></li>
   <li><a href="javascript:;" title="Methods">Methods</a>
       <ul>
         <li><a href="javascript:;" title="String Methods">String Methods</a></li>
