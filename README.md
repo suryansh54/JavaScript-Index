@@ -64,7 +64,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="JSON vs BSON">JSON vs BSON</a></li>
   <li><a href="javascript:;" title="Network Call (XHR, API Handling, Fetch, File Upload, WebSockets)">Network Call (XHR, API Handling, Fetch, File Upload, WebSockets)</a></li>
   <li><a href="javascript:;" title="Getter and Setters (JavaScript Object Accessors)">Getter and Setters (JavaScript Object Accessors)</a></li>
-  <li><a href="javascript:;" title="ES6 - Generators & Iterators">ES6 - Generators & Iterators</a></li>
+  <li><a href="https://github.com/suryansh54/JavaScript-Generators-and-Iterators" title="ES6 - Generators & Iterators">ES6 - Generators & Iterators</a></li>
   <li><a href="javascript:;" title="ES6 - Set and WeakSets">ES6 - Set and WeakSets</a></li>
   <li><a href="javascript:;" title="ES6 - Map and WeakMaps">ES6 - Map and WeakMaps</a></li>
   <li><a href="javascript:;" title="ES6 - Symbol">ES6 - Symbol</a></li>
