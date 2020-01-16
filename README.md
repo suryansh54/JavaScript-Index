@@ -116,7 +116,7 @@ All JavaScript topics index
         <li><a href="javascript:;" title="Encapsulation">Encapsulation</a></li>
       </ul>
   </li>
-  <li><a href="javascript:;" title="JavaScript - Data Structure">JavaScript - Data Structure</a>
+  <li><a href="https://github.com/suryansh54/data-structure-javascript" title="JavaScript - Data Structure">JavaScript - Data Structure</a>
       <ul>
         <li><a href="javascript:;" title="Stacks">Stacks</a></li>
         <li><a href="javascript:;" title="Sets">Sets</a></li>
