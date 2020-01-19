@@ -70,7 +70,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="ES6 - Symbol">ES6 - Symbol</a></li>
   <li><a href="javascript:;" title="ES6 - Proxies">ES6 - Proxies</a></li>
   <li><a href="javascript:;" title="Navigator and Browser">Navigator and Browser</a></li>
-  <li><a href="javascript:;" title="Decorators">Decorators</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-decorators" title="Decorators">Decorators</a></li>
   <li><a href="javascript:;" title="Debouncing and Throttling in JavaScript">Debouncing and Throttling in JavaScript</a></li>
   <li><a href="javascript:;" title="Service Worker">Service Worker</a></li>
   <li><a href="javascript:;" title="Shadow Dom">Shadow Dom</a></li>
