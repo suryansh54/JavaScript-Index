@@ -1,4 +1,4 @@
-# JavaScript topics (ES5, ES6, ES7, ES8), Object Oriented Javascript (OOJS), Data structure
+# JavaScript topics (ES5, ES6, ES7, ES8, ES2020), Object Oriented Javascript (OOJS), Data structure
 All JavaScript topics index
 
 <ol>
@@ -25,7 +25,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="ES6 - Classes">ES6 - Classes</a></li>
   <li><a href="javascript:;" title="Recursion">Recursion</a></li>
   <li><a href="javascript:;" title="IIFE (Immediately Invoked Function Expression)">IIFE (Immediately Invoked Function Expression)</a></li>
-  <li><a href="javascript:;" title="Closure">Closure</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-closure" title="Closure">Closure</a></li>
   <li><a href="javascript:;" title="Currying">Currying</a></li>
   <li><a href="javascript:;" title="Regular Expression">Regular Expression</a></li>
   <li><a href="javascript:;" title="Event Delegation and Event Propagation (Event Capturing and Event bubbling)">Event Delegation and Event Propagation (Event Capturing and Event bubbling)</a></li>
