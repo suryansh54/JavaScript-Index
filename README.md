@@ -19,7 +19,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Function expression and Function declaration">Function expression and Function declaration</a></li>
   <li><a href="javascript:;" title="ES6 - Function with default parameters">ES6 - Function with default parameters</a></li>
   <li><a href="javascript:;" title="ES6 - this keyword and Arrow function">ES6 - this keyword and Arrow function</a></li>
-  <li><a href="javascript:;" title="Garbage collection">Garbage collection</a></li>
+  <li><a href="https://github.com/suryansh54/Javascript-garbage-collection" title="Garbage collection">Garbage collection</a></li>
   <li><a href="javascript:;" title="Function constructor">Function constructor</a></li>
   <li><a href="javascript:;" title="Prototype, Prototype Chain and __proto__">Prototype, Prototype Chain and __proto__</a></li>
   <li><a href="javascript:;" title="ES6 - Classes">ES6 - Classes</a></li>
@@ -133,6 +133,7 @@ All JavaScript topics index
       </ul>
   </li>
   <li><a href="javascript:;" title="Javascript optimization">Javascript optimization</a></li>
+  <li><a href="https://github.com/suryansh54/es2020-new-features" title="ES2020">Javascript ES2020</a></li>
 </ol>
 
 ### References
