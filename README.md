@@ -46,7 +46,7 @@ All JavaScript topics index
   <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#promise" title="ES6 - Promise">ES6 - Promise</a></li>
   <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#asyncawait" title="ES6 - Async/Await">ES6 - Async/Await</a></li>
   <li><a href="javascript:;" title="ES6 - Rest parameters and Spread Operators">ES6 - Rest parameters and Spread Operators</a></li>
-  <li><a href="javascript:;" title="Call, Apply and Bind">Call, Apply and Bind</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-call-apply-bind" title="Call, Apply and Bind">Call, Apply and Bind</a></li>
   <li><a href="javascript:;" title="HTML APIs">HTML APIs</a>
       <ul>
         <li><a href="javascript:;" title="HTML5 Geolocation">HTML5 Geolocation</a></li>
