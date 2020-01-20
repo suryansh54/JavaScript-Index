@@ -73,7 +73,7 @@ All JavaScript topics index
   <li><a href="https://github.com/suryansh54/javascript-decorators" title="Decorators">Decorators</a></li>
   <li><a href="javascript:;" title="Debouncing and Throttling in JavaScript">Debouncing and Throttling in JavaScript</a></li>
   <li><a href="javascript:;" title="Service Worker">Service Worker</a></li>
-  <li><a href="javascript:;" title="Shadow Dom">Shadow Dom</a></li>
+  <li><a href="https://github.com/suryansh54/shadow-dom" title="Shadow Dom">Shadow Dom</a></li>
   <li><a href="javascript:;" title="PWA (Progressive Web Application)">PWA (Progressive Web Application)</a></li>
   <li><a href="javascript:;" title="SVG">SVG</a></li>
   <li><a href="javascript:;" title="Canvas">Canvas</a></li>
