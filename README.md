@@ -13,7 +13,7 @@ All JavaScript topics index
   <li><a href="https://github.com/suryansh54/javascript-scoping" title="Scoping">Scoping</a></li>
   <li><a href="https://github.com/suryansh54/JavaScript-hoisting;" title="JavaScript Hoisting">JavaScript Hoisting</a></li>
   <li><a href="javascript:;" title="Window object">Window object</a></li>
-  <li><a href="javascript:;" title="Javascript identifiers">Javascript identifiers</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-identifiers" title="Javascript identifiers">Javascript identifiers</a></li>
   <li><a href="javascript:;" title="ES6 - let, const and var">ES6 - let, const and var</a></li>
   <li><a href="javascript:;" title="ES6 - Template Strings">ES6 - Template Strings</a></li>
   <li><a href="javascript:;" title="Function expression and Function declaration">Function expression and Function declaration</a></li>
