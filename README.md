@@ -8,7 +8,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="The switch statement">The switch statement</a></li>
   <li><a href="javascript:;" title="Conditional statement">Conditional statement</a></li>
   <li><a href="javascript:;" title="Loops">Loops</a></li>
-  <li><a href="javascript:;" title="Type Conversions">Type Conversions</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-type-conversions" title="Type Conversions">Type Conversions</a></li>
   <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#synchronous-and-asynchronous" title="Event Loop - Synchronous and Asynchronous">Event Loop - Synchronous and Asynchronous</a></li>
   <li><a href="https://github.com/suryansh54/javascript-scoping" title="Scoping">Scoping</a></li>
   <li><a href="javascript:;" title="JavaScript Hoisting">JavaScript Hoisting</a></li>
