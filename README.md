@@ -20,6 +20,17 @@ All JavaScript topics index
   <li><a href="javascript:;" title="ES6 - Function with default parameters">ES6 - Function with default parameters</a></li>
   <li><a href="javascript:;" title="ES6 - this keyword and Arrow function">ES6 - this keyword and Arrow function</a></li>
   <li><a href="https://github.com/suryansh54/Javascript-garbage-collection" title="Garbage collection">Garbage collection</a></li>
+  <li><a href="javascript:;" title="Way to create Object">Way to create Object</a>
+    <ul>
+        <li><a href="javascript:;" title="Using the Object() constructor">Using the Object() constructor</a></li>
+        <li><a href="javascript:;" title="Using Object.create() method">Using Object.create() method</a></li>
+        <li><a href="javascript:;" title="Using the bracket's syntactig sugar (Object Literal)">Using the bracket's syntactig sugar (Object Literal)</a></li>
+        <li><a href="javascript:;" title="Using a function constructor">Using a function constructor</a></li>
+        <li><a href="javascript:;" title="Using the function constructor + prototype">Using the function constructor + prototype</a></li>
+        <li><a href="javascript:;" title="Using ES6 class syntax">Using ES6 class syntax</a></li>
+        <li><a href="javascript:;" title="Singleton pattern">Singleton pattern</a></li>
+      </ul>
+  </li>
   <li><a href="javascript:;" title="Function constructor">Function constructor</a></li>
   <li><a href="javascript:;" title="Prototype, Prototype Chain and __proto__">Prototype, Prototype Chain and __proto__</a></li>
   <li><a href="javascript:;" title="ES6 - Classes">ES6 - Classes</a></li>
