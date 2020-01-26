@@ -90,7 +90,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Canvas">Canvas</a></li>
   <li><a href="javascript:;" title="Script tag attributes - async & defer">Script tag attributes - async & defer</a></li>
   <li><a href="javascript:;" title="Code Quality with ESLint">Code Quality with ESLint</a></li>
-  <li><a href="javascript:;" title="Design Pattern">Design Pattern</a>
+  <li><a href="https://github.com/suryansh54/javascript-design-pattern" title="Design Pattern">Design Pattern</a>
       <ul>
         <li><a href="javascript:;" title="Creational">Creational</a>
           <ul>
