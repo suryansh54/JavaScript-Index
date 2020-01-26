@@ -10,7 +10,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Loops">Loops</a></li>
   <li><a href="javascript:;" title="Type Conversions">Type Conversions</a></li>
   <li><a href="https://github.com/suryansh54/Javascript-callback-promise-async-and-await/blob/master/README.md#synchronous-and-asynchronous" title="Event Loop - Synchronous and Asynchronous">Event Loop - Synchronous and Asynchronous</a></li>
-  <li><a href="javascript:;" title="Scoping">Scoping</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-scoping" title="Scoping">Scoping</a></li>
   <li><a href="javascript:;" title="JavaScript Hoisting">JavaScript Hoisting</a></li>
   <li><a href="javascript:;" title="Window object">Window object</a></li>
   <li><a href="javascript:;" title="Window object">Javascript identifiers</a></li>
