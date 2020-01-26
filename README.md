@@ -3,7 +3,7 @@ All JavaScript topics index
 
 <ol>
   <li><a href="https://github.com/suryansh54/javascript-datatypes" title="Data Type">Data Type</a></li>
-  <li><a href="javascript:;" title="Use strict">Use strict</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-use-strict" title="Use strict">Use strict</a></li>
   <li><a href="javascript:;" title="Operators">Operators</a></li>
   <li><a href="javascript:;" title="The switch statement">The switch statement</a></li>
   <li><a href="javascript:;" title="Conditional statement">Conditional statement</a></li>
