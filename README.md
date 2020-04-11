@@ -69,7 +69,7 @@ All JavaScript topics index
   </li>
   <li><a href="javascript:;" title="JavaScript Cookies">JavaScript Cookies</a></li>
   <li><a href="javascript:;" title="JavaScript Cache">JavaScript Cache</a></li>
-  <li><a href="javascript:;" title="JavaScript Memoization">JavaScript Memoization</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-memoization" title="JavaScript Memoization">JavaScript Memoization</a></li>
   <li><a href="https://github.com/suryansh54/javascript-destructuring" title="ES6 - Destructuring">ES6 - Destructuring</a></li>
   <li><a href="javascript:;" title="ES6 - Modules (Import, Export)">ES6 - Modules (Import, Export)</a></li>
   <li><a href="javascript:;" title="JSON vs BSON">JSON vs BSON</a></li>
