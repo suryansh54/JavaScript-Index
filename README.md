@@ -19,6 +19,7 @@ All JavaScript topics index
   <li><a href="javascript:;" title="Function expression and Function declaration">Function expression and Function declaration</a></li>
   <li><a href="javascript:;" title="ES6 - Function with default parameters">ES6 - Function with default parameters</a></li>
   <li><a href="https://github.com/suryansh54/this-keyword-and-arrow-function" title="ES6 - this keyword and Arrow function">ES6 - this keyword and Arrow function</a></li>
+  <li><a href="https://github.com/Suryansh-Learning/pure-vs-impure-function" title="Pure function">Pure Function</a></li>
   <li><a href="https://github.com/suryansh54/Javascript-garbage-collection" title="Garbage collection">Garbage collection</a></li>
   <li><a href="https://github.com/suryansh54/javascript-way-to-create-object" title="Way to create Object">Way to create Object</a>
     <ul>
